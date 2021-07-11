@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.wrapper{
+    height: auto;
+    width: auto;
+    background-image: url(bg.png);
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    margin: 10px 20px;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+}

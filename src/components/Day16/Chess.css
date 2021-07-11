@@ -1,0 +1,27 @@
+.main_board{
+    width: 439px;
+    height: 439px;
+    border: 1px solid black;
+    display: flex;
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    box-shadow: 3px 3px 4px 4px black;
+}
+.col{
+    width: 53px;
+    height: 53px;
+    border: 1px solid black;
+}
+.row:nth-child(odd){
+    background-color: rgb(47, 15, 98);
+}
+.row:nth-child(odd) .col:nth-child(even){
+    background-color: rgb(151, 147, 204);
+}
+.row:nth-child(even){
+    background-color: rgb(47, 15, 98);
+}
+.row:nth-child(even) .col:nth-child(odd){
+    background-color: rgb(151, 147, 204);
+}
