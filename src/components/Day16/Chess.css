@@ -4,8 +4,8 @@
     border: 1px solid black;
     display: flex;
     position: absolute;
-    top: 20%;
-    left: 60%;
+    top:20%;
+    left:70%;
     box-shadow: 3px 3px 4px 4px black;
 }
 .col{

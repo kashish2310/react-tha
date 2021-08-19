@@ -8,6 +8,7 @@ function Button() {
         <div>
             <button className="btn" onClick={()=>setCnt(cnt+1)}>{cnt}
             </button>
+            
         </div>
     );
 }

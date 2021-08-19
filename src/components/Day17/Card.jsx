@@ -5,7 +5,7 @@ function Card(props){
     return(
         <div className="card">
         <h1>{title}</h1>
-        <h4>{dis}</h4>
+        <h5>{dis}</h5>
         </div>
     );
 }

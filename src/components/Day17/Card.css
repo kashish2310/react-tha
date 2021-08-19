@@ -4,7 +4,7 @@
     position: absolute;
     top: 20%;
     left: 35%;
-    overflow: scroll;
+    overflow-x: scroll;
     box-shadow: 2px 2px 2px 3px black;
 }
 #head{
@@ -14,7 +14,7 @@
 }
 .card{
     width: 401px;
-    height: 130px;
+    height: 150px;
     margin-left: 10px;
     margin-top: 20px;
     padding-left: 20px;
