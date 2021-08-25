@@ -1,4 +1,4 @@
-function App() {
+function Day24() {
     return (
       <div className="App">
      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -79,4 +79,4 @@ function App() {
     );
   }
   
-  export default App;
+  export default Day24;

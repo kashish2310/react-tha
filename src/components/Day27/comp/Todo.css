@@ -1,0 +1,37 @@
+.container{
+    position: relative;
+    width: 50rem;
+    height: auto;
+    text-align: center;
+    top: 8rem;
+    left: 17rem;
+}
+
+.input{
+    padding: 5px;
+    width: 200px;
+    margin-right: 9px;
+}
+.btn-sub{
+    padding: 5px;
+    width: 100px;
+    font-size: 18px;
+    border-radius: 6px;
+    background-color:#ED213A; 
+}
+.list-item{
+    position: relative;
+    top: 10rem;
+    left: 32rem;
+}
+.li-item{
+    margin-top: 5px;
+}
+.del-btn{
+    padding: 5px;
+    width: 74px;
+    font-size: 10px;
+    border-radius: 6px;
+    margin-left: 6px;
+    background-color: aqua;
+}
